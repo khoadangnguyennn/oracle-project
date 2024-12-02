@@ -1,9 +1,5 @@
-# oracle-team-YDCC 2024
-#Member
-Nguyễn Hữu Thắng
+# oracle 2024
 Nguyễn Đăng Khoa
-Trần Nguyễn Nam
-Nguyễn Phượng Vỹ
 
 #Projectname
 V-link: virtual assistants help verify link
